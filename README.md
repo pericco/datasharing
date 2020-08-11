@@ -1,4 +1,4 @@
-How to share data with a statistician
+How to share data and work with a statistician
 ===========
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
@@ -20,7 +20,7 @@ before calling on a statistician. This can dramatically speed the turnaround tim
 have to work through all the pre-processing steps first. 
 
 
-What you should deliver to the statistician
+What data you should deliver to the statistician
 ====================
 
 To facilitate the most efficient and timely analysis this is the information you should pass to a statistician:
